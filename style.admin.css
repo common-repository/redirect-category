@@ -1,0 +1,19 @@
+#redirect-category-settings-table {width:430px;}
+.fl {float:left;}
+.cb {clear:both;}
+#redirect-category-guide {width:570px;}
+.warn {
+-moz-border-radius: 3px 3px 3px 3px;
+border-style: solid;
+border-width: 1px;
+margin: 5px 15px 2px;
+padding: 0 0.6em;
+background-color: #ffc0c0;
+border-color: #e88e8e;
+margin: 5px 0 15px;
+}
+.warn p {
+margin: 0.5em 0;
+padding: 2px;
+}
+.lsep {height:7px;}
